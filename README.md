@@ -20,3 +20,7 @@ We use Sci-kit Learn to conduct a logistic regression analysis. The implementati
 ## M5: Principal Component Analysis in Scikit-Learn
 We conduct a Principal Component Analysis (PCA) using Scikit-Learn. PCA is an unsupervised machine-learning tool, i.e., we do not provide any labels or guidance and let the machine explore the data. PCA is used to reduce a dataset's dimensions without losing essential information.
 ### [YouTube video 5](https://youtu.be/zKzoL8UbhUk)
+
+## M6: Learning Business Analytics with Python Is REALLY Worth It - New Book
+We discuss our new book on Business Analytics with Python. Are you a business student, analyst, or professional looking to master business analytics with Python? Well, I’ve got something exciting for you—our new book, Business Analytics with Python: Essential Skills for Business Students, is now available on Amazon! 
+### [YouTube video 6](https://youtu.be/OR0EwGWarOY)
