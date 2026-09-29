@@ -1,5 +1,5 @@
-# Machine Learning
-This is a collection of videos covering machine learning and AI.
+# Machine Learning & AI in Finance
+This is a collection of videos covering machine learning and AI focusing on applications in finance.
 
 ## M1: The Perceptron: Worked Example
 We discuss the perceptron using a worked example. Many argue that the perceptron was one of the first machine-learning algorithms. Initially, the maths looks a bit scary. However, after working through a few rounds of updating, the algorithm makes sense. 
@@ -24,3 +24,6 @@ We conduct a Principal Component Analysis (PCA) using Scikit-Learn. PCA is an un
 ## M6: Learning Business Analytics with Python Is REALLY Worth It - New Book
 We discuss our new book on Business Analytics with Python. Are you a business student, analyst, or professional looking to master business analytics with Python? Well, I’ve got something exciting for you—our new book, Business Analytics with Python: Essential Skills for Business Students, is now available on Amazon! 
 ### [YouTube video 6](https://youtu.be/OR0EwGWarOY)
+
+## M7: Simple share price simulation and noise trading
+The Python script creates a stock. Share prices follow a random walk, and noise traders respond to random signals (noise) with buy and sell orders.
