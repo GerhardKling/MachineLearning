@@ -36,6 +36,12 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 -	Define market exit as having wealth below 30.
 -	How many traders survive 1,000 simulated prices/trades?
 
+## M9: Python for Data Analysis & ML Basics
+- Python scripts for downloading stock market data and data analysis in Python.
+- Data on commodity prices.
+- Data on gold prices and holdings.
+
+
 
 
 
