@@ -30,11 +30,11 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 
 ## M8: Tutorial 1
 - Start with the Python scripts in the M7 folder 
-•	Create 100 noise traders with the same initial capital of 50.
-•	Create a new attribute called wealth, which takes capital and adds the current value of the noise trader’s shareholding. 
-•	Example: A trader has 32 capital and holds 2 stocks with a current market price of 20. Hence, the trader’s wealth is 32+40=72.
-•	Define market exit as having wealth below 30.
-•	How many traders survive 1,000 simulated prices/trades?
+-	Create 100 noise traders with the same initial capital of 50.
+- Create a new attribute called wealth, which takes capital and adds the current value of the noise trader’s shareholding. 
+-	Example: A trader has 32 capital and holds 2 stocks with a current market price of 20. Hence, the trader’s wealth is 32+40=72.
+-	Define market exit as having wealth below 30.
+-	How many traders survive 1,000 simulated prices/trades?
 
 
 
