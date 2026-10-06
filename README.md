@@ -41,6 +41,11 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Data on commodity prices.
 - Data on gold prices and holdings.
 
+## M10: GenAI & Introduction to Scikit-learn
+- AI-assisted coding.
+- ML workflow in Scikit-learn.
+- Analysis of commodity prices using classifiers.
+
 
 
 
