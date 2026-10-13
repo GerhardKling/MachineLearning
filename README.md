@@ -55,6 +55,17 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Calculate the ratio of natural gas in the US to natural gas in Europe and visualise the ratio over time.
 - Can you design and test a trading strategy?
 
+## M12: Pairs Trading
+- Asset classes
+- Trading or investing
+- Risk and exposure
+- Ratios and correlations
+- Cointegration
+- Vector error correction models
+- Example: US steel makers
+
+
+
 
 
 
