@@ -47,7 +47,7 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Analysis of commodity prices using classifiers.
 
 ## M11: Tutorial 2
-- Start with the Python script commodities.py and the dataset Commodity.csv in the M10 folder on GitHub (https://github.com/GerhardKling/MachineLearning).
+- Start with the Python script commodities.py and the dataset Commodity.csv in the M10 folder.
 - Create the Year and Month variables as shown in the Python script commodities.py.
 - You can use AI-assisted coding to do the following:
 - Plot the time series of natural gas traded in the US and Europe on one chart.
