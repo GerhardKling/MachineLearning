@@ -64,6 +64,16 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Vector error correction models
 - Example: US steel makers
 
+## M13: Momentum
+- Technical trading
+- Deterministic versus stochastic trends
+- Trend-following indicators
+- Momentum indicators
+- Feature engineering
+- Example: Cryptos
+- Indicators
+- Dimensionality reduction
+- PCA
 
 
 
