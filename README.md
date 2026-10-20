@@ -75,6 +75,15 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Dimensionality reduction
 - PCA
 
+## M14: Tutorial 3
+- Start with the Python scripts steel.py and data.py in the M12 folder 
+- Focus on UK-listed banks
+- You can focus on the largest banks
+- Or include challenger banks
+- Define a list of tickers 
+- Focus on daily data over the last five years
+- Can you detect a pairs trading opportunity?
+
 
 
 
