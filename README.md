@@ -84,6 +84,17 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Focus on daily data over the last five years
 - Can you detect a pairs trading opportunity?
 
+## M15: Volatility
+- Moments of a time series
+- Volatility clusters
+- Options
+- Option pricing
+- Volatility trading
+- Testing for volatility patterns
+- ARCH/GARCH
+- Forecasting
+- Trading strategy
+
 
 
 
