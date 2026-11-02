@@ -95,6 +95,18 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Forecasting
 - Trading strategy
 
+## M16: Carry Trade
+- What do we mean by carry?
+- Foreign exchange market
+- Purchasing power parity
+- Interest rate parity
+- Covered interest parity
+- Uncovered interest parity
+- Forex trend following
+- Cost-of-carry relationship
+
+
+
 
 
 
