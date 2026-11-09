@@ -105,10 +105,14 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Forex trend following
 - Cost-of-carry relationship
 
-
-
-
-
+## M17: Trading Strategies & Backtesting
+- Identify trading opportunities
+- Forecasting and trading signals
+- Risk management
+- Backtesting
+- Performance measures
+- Validation and robustness tests
+- Testing trading strategies
 
 
 
