@@ -114,6 +114,13 @@ The Python script creates a stock. Share prices follow a random walk, and noise 
 - Validation and robustness tests
 - Testing trading strategies
 
-
+## M18: Tutorial 4
+- Start with the data on commodities in Data.csv in the M18 folder on GitHub (https://github.com/GerhardKling/MachineLearning). 
+- Explore the time series of rice prices
+- What are these sharp jumps in the time series?
+- Can you identify these jumps and remove them?
+- Calculate indicators (sma, ema, roc, and rsi) for the adjusted rice price time series.
+- Design a trading strategy.
+- Do we have a data leak?
 
 
